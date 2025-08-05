@@ -6,6 +6,7 @@ readme = "README.md"
 requires-python = ">=3.13"
 dependencies = [
     "dspy>=2.6.27",
+    "dspy-ai>=2.6.27",
     "ipykernel>=6.30.1",
     "ipython>=9.4.0",
     "jupyter>=1.1.1",
@@ -15,4 +16,5 @@ dependencies = [
     "langchain-openai>=0.3.28",
     "langgraph>=0.6.3",
     "pandas>=2.3.1",
+    "tavily-python>=0.7.10",
 ]
